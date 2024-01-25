@@ -1,0 +1,2 @@
+# Sentiment-Analysis
+A valuable source of information for investors to make well-informed business decisions is sentiment analysis of news and social media content. I create, test, and assess a sentiment classifier for social media postings and financial news headlines for this project. I'll be using the FiQA Sentiment Analysis dataset for this challenge, which includes English news headlines and financial-related social media posts.
